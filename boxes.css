@@ -1,0 +1,86 @@
+.plain{
+
+    width: 300px;
+    height:150px;
+    background-color: white;
+    position:absolute;
+    top: 0px;
+   left: 0px;
+   border:10px groove black}
+
+   .plain2{
+
+    width: 300px;
+    height:150px;
+    background-color: white;
+    position:absolute;
+    top: 169px;
+   left: 0px;
+   border-right:10px groove black;
+   border-left:10px groove black;
+   border-bottom:10px groove black;
+
+}
+.blue{
+
+    width: 300px;
+    height:400px;
+    background-color: rgb(46, 91, 180);
+    position:absolute;
+    top: 328px;
+   left: 0px;
+   border-right:10px groove black;
+   border-left:10px groove black;
+   border-bottom:10px groove black;
+
+}
+
+.red{
+    width: 500px;
+    height:410px;
+    background-color: rgb(201, 39, 39);
+    position:absolute;
+    top: 0px;
+   left: 319px;
+   border-top:10px groove black;
+   border-right:10px groove black;
+   border-bottom:10px groove black;
+
+
+}
+.plain3{
+    width: 400px;
+    height:299px;
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top: 429px;
+   left: 318px;
+   border-right:10px groove black;
+   border-bottom:10px groove black;
+
+
+}
+
+.plain4{
+    width: 91px;
+    height:150px;
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    top: 429px;
+   left: 728px;
+   border-right:10px groove black;
+   border-bottom:10px groove black;
+}
+.yellow{
+    width: 91px;
+    height:140px;
+    background-color: rgb(231, 231, 45);
+    position:absolute;
+    top: 589px;
+   left: 728px;
+   border-right:10px groove black;
+   border-bottom:10px groove black;
+   
+
+}
+
